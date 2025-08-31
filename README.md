@@ -14,7 +14,7 @@
 </div>
 
 # <div align="center">Time series forecasting using Deep Learning</div>
-<div align="center"><img src="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/compare%20models.PNG?raw=true"></div>
+<div align="center"><img src="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/overview.gif?raw=true"></div>
 
 
 
