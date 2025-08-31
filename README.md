@@ -49,9 +49,9 @@ Max date from train set: 2017-12-31
 
 **Libraries:**  `NumPy` `pandas` `tensorflow` `matplotlib` `sklearn` `seaborn`
 ## Data Exploration:
-<img src="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/overall%20daily%20sales.PNG?raw=true">
-<img src="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/item%20daily%20sales.PNG?raw=true">
-<img src ="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/store%20sales.PNG?raw=true">
+<img src="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/overall%20daily%20sales.PNG?raw=true">
+<img src="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/item%20daily%20sales.PNG?raw=true">
+<img src ="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/store%20sales.PNG?raw=true">
 
 ## Model training, evaluation, and prediction:
 ### Multilayer Perceptron:
@@ -71,7 +71,7 @@ Max date from train set: 2017-12-31
 - The benefit of this model is that the model can support very long input sequences that can be read as blocks or subsequences by the CNN model, then pieced together by the LSTM model.
 
 ### Comapring Models:
-<img src ="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/compare%20models.PNG?raw=true">
+<img src ="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/compare%20models.PNG?raw=true">
 <br>
 
 | Model             | Train RMSE             | Validation RMSE                                                                |
