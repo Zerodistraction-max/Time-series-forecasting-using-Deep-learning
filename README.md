@@ -49,9 +49,9 @@ Max date from train set: 2017-12-31
 
 **Libraries:**  `NumPy` `pandas` `tensorflow` `matplotlib` `sklearn` `seaborn`
 ## Data Exploration:
-<img src="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-Learning/blob/main/output/overall%20daily%20sales.PNG?raw=true">
-<img src="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-Learning/blob/main/output/item%20daily%20sales.PNG?raw=true">
-<img src ="https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-Learning/blob/main/output/store%20sales.PNG?raw=true">
+<img src="[https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-Learning/blob/main/output/overall%20daily%20sales.PNG](https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/overall%20daily%20sales.PNG)?raw=true">
+<img src="[https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-Learning/blob/main/output/item%20daily%20sales.PNG](https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/item%20daily%20sales.PNG)?raw=true">
+<img src ="[https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-Learning/blob/main/output/store%20sales.PNG](https://github.com/Zerodistraction-max/Time-series-forecasting-using-Deep-learning/blob/main/Output/store%20sales.PNG)?raw=true">
 
 ## Model training, evaluation, and prediction:
 ### Multilayer Perceptron:
