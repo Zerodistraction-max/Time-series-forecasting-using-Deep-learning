@@ -100,7 +100,7 @@ If you have any feedback, please reach out at pradnyapatil671@gmail.com
 
 
 ### 🚀 About Me
-#### Hi, I'm Pradnya! 👋
+#### Hi, I'm Suryansh Sapehia ! 👋
 I am an AI Enthusiast and  Data science & ML practitioner
 
 
