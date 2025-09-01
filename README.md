@@ -21,6 +21,8 @@
 ## Overview:
 Deep learning methods offer a lot of promise for time series forecasting, such as the automatic learning of temporal dependence and the automatic handling of temporal structures like trends and seasonality.
 
+## Project Goal
+The main objective of this project is to forecast future sales for 50 different items across 10 different stores. It uses historical sales data to predict sales for the next three months
 ## Dataset:
 [Predict Future Slaes](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)<br>
 [Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data)
